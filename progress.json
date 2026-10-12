@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-12T02:53:15.790Z",
+  "items": {
+    "math:113": {
+      "kind": "math",
+      "id": "113",
+      "title": "Classification Trees: Gini, Entropy and Information Gain",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/113",
+      "path": "math/0113-classification-trees-gini-entropy-and-information-gain",
+      "first_solved_at": "2026-10-12T02:53:12.279Z",
+      "last_pushed_at": "2026-10-12T02:53:12.279Z"
+    }
+  }
+}
