@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 1 problems · 0 labs · 2 math
+**4** solved · 2 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-10-13 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-10-13 | [solution](problems/0286-implement-decision-tree-for-regression) |
 
 ## Math
