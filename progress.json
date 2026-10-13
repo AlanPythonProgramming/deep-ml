@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T03:41:58.072Z",
+  "generated_at": "2026-10-13T02:16:24.246Z",
   "items": {
     "math:113": {
       "kind": "math",
@@ -22,6 +22,19 @@
       "path": "math/0112-regression-trees-and-recursive-binary-splitting",
       "first_solved_at": "2026-10-12T03:41:57.732Z",
       "last_pushed_at": "2026-10-12T03:41:57.732Z"
+    },
+    "problem:286": {
+      "kind": "problem",
+      "id": "286",
+      "title": "Implement Decision Tree for Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/286",
+      "path": "problems/0286-implement-decision-tree-for-regression",
+      "first_solved_at": "2026-10-13T02:16:23.673Z",
+      "last_pushed_at": "2026-10-13T02:16:23.673Z",
+      "language": "python",
+      "lines": 92
     }
   }
 }
