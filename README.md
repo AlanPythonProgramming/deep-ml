@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 5 problems · 0 labs · 2 math
+**8** solved · 5 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Classification Trees: Gini, Entropy and Information Gain](https://www.deep-ml.com/math-problems/113) | medium | 2026-10-12 | [solution](math/0113-classification-trees-gini-entropy-and-information-gain) |
 | [Regression Trees and Recursive Binary Splitting](https://www.deep-ml.com/math-problems/112) | medium | 2026-10-12 | [solution](math/0112-regression-trees-and-recursive-binary-splitting) |
+| [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-10-16 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
 
 ---
 
