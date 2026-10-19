@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:03:32.205Z",
+  "generated_at": "2026-10-19T07:12:00.460Z",
   "items": {
     "math:113": {
       "kind": "math",
@@ -98,6 +98,17 @@
       "path": "math/0114-bagging-variance-reduction-and-random-forests",
       "first_solved_at": "2026-10-16T01:03:30.775Z",
       "last_pushed_at": "2026-10-16T01:03:30.775Z"
+    },
+    "math:115": {
+      "kind": "math",
+      "id": "115",
+      "title": "Boosting: Learning Slowly from Residuals",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/115",
+      "path": "math/0115-boosting-learning-slowly-from-residuals",
+      "first_solved_at": "2026-10-19T07:11:59.925Z",
+      "last_pushed_at": "2026-10-19T07:11:59.925Z"
     }
   }
 }
