@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T07:12:00.460Z",
+  "generated_at": "2026-10-19T07:35:17.721Z",
   "items": {
     "math:113": {
       "kind": "math",
@@ -109,6 +109,19 @@
       "path": "math/0115-boosting-learning-slowly-from-residuals",
       "first_solved_at": "2026-10-19T07:11:59.925Z",
       "last_pushed_at": "2026-10-19T07:11:59.925Z"
+    },
+    "problem:344": {
+      "kind": "problem",
+      "id": "344",
+      "title": "Implement Gradient Boosting Regressor Step",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/344",
+      "path": "problems/0344-implement-gradient-boosting-regressor-step",
+      "first_solved_at": "2026-10-19T07:35:17.197Z",
+      "last_pushed_at": "2026-10-19T07:35:17.197Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
