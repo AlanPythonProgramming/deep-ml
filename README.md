@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 6 problems · 0 labs · 4 math
+**11** solved · 7 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-10-13 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-19 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-10-15 | [solution](problems/0343-implement-random-forest-feature-importance) |
+| [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-10-20 | [solution](problems/0347-xgboost-objective-function-calculation) |
 
 ## Math
 
