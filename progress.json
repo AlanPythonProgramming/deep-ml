@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:40:31.067Z",
+  "generated_at": "2026-10-20T06:29:03.838Z",
   "items": {
     "math:113": {
       "kind": "math",
@@ -135,6 +135,19 @@
       "last_pushed_at": "2026-10-20T02:40:30.175Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:811": {
+      "kind": "problem",
+      "id": "811",
+      "title": "Histogram-Based Gradient Boosting Split Finding",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/811",
+      "path": "problems/0811-histogram-based-gradient-boosting-split-finding",
+      "first_solved_at": "2026-10-20T06:29:02.176Z",
+      "last_pushed_at": "2026-10-20T06:29:02.176Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
